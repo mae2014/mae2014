@@ -1,16 +1,20 @@
-## Hi there 👋
+# Maé Mpah
 
-<!--
-**mae2014/mae2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build systems that turn operating reality into decision-grade evidence.
 
-Here are some ideas to get you started:
+I am interested in evidence quality, operating reality, decision intelligence, execution risk, and high-friction environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work explores how fragmented operational signals can be structured into clearer, more reliable systems for decision-making.
+
+## Current focus
+
+- Execution reality and operational evidence
+- Evidence resilience under high-friction conditions
+- Decision-grade systems for capital-facing environments
+- Applied research, benchmarks, and structured diagnostics
+
+## Public work
+
+This profile will host selected public artifacts, notes, and research-oriented projects.
+
+Deeper proprietary work remains private.
