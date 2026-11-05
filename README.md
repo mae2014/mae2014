@@ -1,20 +1,31 @@
-# Maé Mpah
+# Hi, I'm Maé Mpah
 
-I build systems that turn operating reality into decision-grade evidence.
+I build businesses, systems and tools, mostly around finance, operations and technology.
 
-I am interested in evidence quality, operating reality, decision intelligence, execution risk, and high-friction environments.
+A lot of what I work on starts with a question. Why is this process so complicated? What are the numbers not telling us? Could this be automated? Is there a better way to make this decision?
 
-My work explores how fragmented operational signals can be structured into clearer, more reliable systems for decision-making.
+Sometimes the answer is a financial model. Sometimes it's a Python script, an automation, a piece of research or a much bigger system.
 
-## Current focus
+## What you'll find here
 
-- Execution reality and operational evidence
-- Evidence resilience under high-friction conditions
-- Decision-grade systems for capital-facing environments
-- Applied research, benchmarks, and structured diagnostics
+This is where I share things I'm building, testing and learning along the way.
 
-## Public work
+- Financial models and analysis
+- Data tools and practical automations
+- Experiments with AI and business systems
+- Research on asset performance and value creation
+- Small tools that make everyday work easier
 
-This profile will host selected public artifacts, notes, and research-oriented projects.
+I care about building things that work beyond a demo, are easy to use and can be improved by others.
 
-Deeper proprietary work remains private.
+## A little about my work
+
+I'm building Systelia, focused on asset performance and economic value creation, and AUTUM, where I work on AI systems for business operations.
+
+My interests go beyond these companies, and so will the projects I share here.
+
+## Let's build on ideas
+
+If something here is useful, feel free to try it, share it or make it better. Issues, pull requests and thoughtful feedback are welcome.
+
+You can also find me on [LinkedIn](https://www.linkedin.com/in/maé-mpah/).
